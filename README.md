@@ -5,13 +5,13 @@ Teledash is a web application that simplifies research and analysis of the conte
 
 ![landing page](images/start.gif)
 
-## Repositores
+## Repositories
 
 * [Frontend](https://github.com/democ-de/teledash-frontend)
 * [Backend](https://github.com/democ-de/teledash-backend)
 
 ## Features
-One or more Telegram accounts can be linked to Teledash. The content is then downloaded and processed periodically. 
+One or more Telegram accounts can be linked to Teledash. The content will be downloaded and processed periodically.
 
 ### Search 
 With the help of the web interface, all channels, groups and chats can be searched with various parameters. For example, you can search for messages from a certain period in certain channels or messages from specific users.
@@ -49,4 +49,4 @@ Please cite Teledash in your publications if you used it for your research:
 
 ## Acknowledgements
 
-* Funded from September 2021 until February 2022 by ![logos of the Bundesministerium für Bildung und Forschung (BMBF), Prototype Fund and OKFN-Deutschland](images/bmbf_pf_funding_logos.svg)
+* Funded from September 2021 until February 2022 by ![logos of the Bundesministerium für Bildung und Forschung (BMBF), Prototype Fund and OKF-Deutschland](images/bmbf_pf_funding_logos.svg)
