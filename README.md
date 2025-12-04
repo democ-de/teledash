@@ -1,4 +1,4 @@
-_**Attention: This repository will no longer be maintained. A new release is under development. Find updates about the upcoming release here: [arai-telegram.github.io](https://arai-telegram.github.io/)**_
+_**Attention: This project has moved here: [ARAI-Telegram](https://github.com/ARAI-Telegram)**_
 
 # Teledash
  *Research and analysis software for Telegram*
